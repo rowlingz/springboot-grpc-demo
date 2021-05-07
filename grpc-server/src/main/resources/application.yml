@@ -1,0 +1,4 @@
+#grpc相关配置
+grpc:
+  server:
+    port: 8002 #默认端口9090

@@ -1,0 +1,9 @@
+/Users/zhouning/springboot_grpc/grpc-client/target/generated-sources/protobuf/java/com/example/grpc/core/HelloWorldServiceProto.java
+/Users/zhouning/springboot_grpc/grpc-client/target/generated-sources/protobuf/java/com/example/grpc/core/HelloReply.java
+/Users/zhouning/springboot_grpc/grpc-client/target/generated-sources/protobuf/java/com/example/grpc/core/HelloRequest.java
+/Users/zhouning/springboot_grpc/grpc-client/target/generated-sources/protobuf/java/com/example/grpc/core/HelloReplyOrBuilder.java
+/Users/zhouning/springboot_grpc/grpc-client/target/generated-sources/protobuf/grpc-java/com/example/grpc/core/GreeterGrpc.java
+/Users/zhouning/springboot_grpc/grpc-client/src/main/java/com/example/client/Application.java
+/Users/zhouning/springboot_grpc/grpc-client/target/generated-sources/protobuf/java/com/example/grpc/core/HelloRequestOrBuilder.java
+/Users/zhouning/springboot_grpc/grpc-client/src/main/java/com/example/client/GrpcClient.java
+/Users/zhouning/springboot_grpc/grpc-client/src/main/java/com/example/client/GrpcClientController.java
